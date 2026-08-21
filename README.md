@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Computer Science Student  
-💻 Learning software development and exploring open source.
+
+💻 Computer Science Student, Learning software development and exploring open source, Keep learning, keep building.
